@@ -7,8 +7,8 @@ for(i=0; i<text.length; i++){
         break}
 
         if(a){
-            console.log("Rəqəm var")
+            console.log(" Mətində Rəqəm var")
         }
-        else{console.log("Rəqəm Yoxdur")}
+        else{console.log(" Mətində  Rəqəm Yoxdur")}
     }
 
